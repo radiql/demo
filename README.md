@@ -1,7 +1,7 @@
 # go-examples
 Example RADiQL projects implemented with Golang
 
-This repository contains a collection of useful example RADiQL projects that you can use as a basis for you your own RADiQL projects. We've provided you with a range of example projects in order to help you try out RADiQL application development and to get started creating production-quality software solutions as soon as possible.
+This repository contains a collection of useful example RADiQL projects that you can use as a basis for your own RADiQL projects. We've provided you with a range of example projects in order to help you try out RADiQL application development and to get started creating production-quality software solutions as soon as possible.
 
 Each of the example projects can be found under the src directory in its own folder. Each project contains a README.md file that describes the project in more detail. 
 
