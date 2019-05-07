@@ -1,8 +1,5 @@
 # UI Presenters
 
-UI Presenters contain the smart business logic that is independent of any 
-particular view technology or platform.
-
 Presenters are responsible for converting data from an Interactor in the form of
 a domain model into a view model representation of the same data.
 
