@@ -2,7 +2,7 @@
 
 A Simple Story is a Story that directly implements a User Story or Use Case.
 It contains a number of components that may be deployed in a process such as a
-web browser for the user interfaces and a number of other cmponents that may run
+web browser for the user interfaces and a number of other components that may run
 in one or more servers.
 
 # RADiQL Default Implementation Technologies
