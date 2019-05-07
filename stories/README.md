@@ -65,13 +65,13 @@ application. In other words, Stories are *composable* and *reusable*.
 Stories communicate with each other via the data that's passed from one
 story to another. Each story has inputs and outputs. 
 
-In traditional business analysis, a Business Analyst will carefull define the
+In traditional business analysis, a Business Analyst will carefully define the
 data that is consumed and produced by each Use Case. In highly agile User Story 
 development, the data is discovered and described by code, with code becoming
 the primary tool used to document the system. The requirements may be captured
 more formally in a tool such as JIRA.
 
-The important thing to appreciate here is that Stories fundamentally defined 
+The important thing to appreciate here is that Stories are fundamentally defined 
 by two characteristics: 
 
 1. the data that enters them and the data that leaves them
