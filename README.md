@@ -1,5 +1,5 @@
-# go-examples
-Example RADiQL projects implemented with Golang
+# demo
+Example RADiQL projects implemented with Golang, HTML5 and Javascript
 
 This repository contains a collection of useful example RADiQL projects that you can use as a basis for your own RADiQL projects. We've provided you with a range of example projects in order to help you try out RADiQL application development and to get started creating production-quality software solutions as soon as possible.
 
